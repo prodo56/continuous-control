@@ -62,4 +62,4 @@ This yields an average score for each episode (where the average is over all 20 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* [Udacity](https://www.udacity.com/)
+* [Udacity](https://www.udacity.com/) (for providing the starter code.)
